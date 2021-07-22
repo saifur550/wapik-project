@@ -114,11 +114,16 @@ body{
 
 
 
+nav .container {
+	border-bottom: 1px solid #fff;
+	padding: 10px 0;
+}
+
 
 /* banner section */
 
 .banner__section .row{
-    min-height: 500px;
+    min-height: 800px;
     align-items: center;
 }
 
